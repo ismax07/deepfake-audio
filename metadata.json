@@ -1,0 +1,6 @@
+{
+  "name": "Audio Deepfake Forensics",
+  "description": "Interface and Python Source Code for detecting audio deepfakes using MFCC and Convolutional Neural Networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
